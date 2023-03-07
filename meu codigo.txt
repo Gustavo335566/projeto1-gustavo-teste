@@ -1,3 +1,0 @@
-ola, eu sou o teste secundário. para adicionar um arquivo é git add, para adicionar todos é git add .
-para verificar o status é git status, não se esqueça de colocar o email e o nome de usuário. usando o comando
-git commit -m "commit inicial"
