@@ -1,1 +1,3 @@
 Aqui estará o sistema de login usado como exemplo até então
+digite a sua idade
+digite o seu email
