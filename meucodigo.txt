@@ -1,0 +1,3 @@
+olá, eu sou o teste 1. Para adicionar mais eu uma pasta ao mesmo tempo usa se o comando 'git add .'
+para verificar o status dos arquivos que estão na pasta e que podem ter versões usa se o git status.
+Pode também adicionar só um arquivo por vez com o 'git add'
